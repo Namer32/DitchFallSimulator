@@ -20,4 +20,4 @@ function lib:Banned(player)
 end;
 
 return lib;
---Work--
+--e--
