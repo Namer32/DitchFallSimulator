@@ -5,7 +5,7 @@ function lib:Unlisted()
 end;
 
 local banned = {
-    "xXHypnOgErXx
+    "xXHypnOgErXx"
 };
 
 function lib:Banned(player)
