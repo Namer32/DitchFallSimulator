@@ -1,4 +1,3 @@
---Hope--
 local lib = {};
 
 function lib:Unlisted()
@@ -20,5 +19,3 @@ function lib:Banned(player)
 end;
 
 return lib;
---e--
---b--
