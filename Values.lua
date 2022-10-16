@@ -10,7 +10,7 @@ local banned = {
 
 function lib:Banned(player)
     for _, value in pairs(banned) do
-        if player:IsA("Player") and player.Name == value then
+        if player:IsA("Player") and player.UserId == value then
             return true;
         end;
     end;
