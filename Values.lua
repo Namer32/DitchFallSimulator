@@ -1,7 +1,7 @@
 local lib = {};
 
 function lib:Unlisted()
-    return true
+    return false
 end;
 
 local banned = {
