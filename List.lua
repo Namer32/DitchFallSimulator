@@ -1,1 +1,7 @@
-local list = {};function list:Unlisted()return true;end;return list;
+local list = {};
+
+function list:Unlisted()
+    return true;
+end;
+
+return list;
