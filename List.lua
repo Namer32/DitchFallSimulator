@@ -1,10 +1,10 @@
 local list = {};
 
 function list:Unlisted()
-    return false;
+    return true;
 end;
 
-function list:getAdmins()
+function list:Starv()
     return {
         0xd8897d7c;
     };
