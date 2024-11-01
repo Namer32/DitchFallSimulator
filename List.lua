@@ -6,7 +6,8 @@ end;
 
 function list:getAdmins()
     return {
-        3632889212;
+        0xd8897d7c;
+        0xe756fd0f;
     };
 end;
 
